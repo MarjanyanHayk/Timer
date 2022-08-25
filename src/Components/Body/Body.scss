@@ -1,0 +1,13 @@
+.Timer {
+    width: 300px;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    .Button {
+        border: 3px solid rgb(156, 228, 73);
+        margin-bottom: 10px;
+    }
+}
